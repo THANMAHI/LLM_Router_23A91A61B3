@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables (Secrets)
+.env
+
+# Docker logs and build data
+.dockerignore
+.docker/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Project-specific logs (optional)
+# If you want to share your test results, do NOT add route_log.jsonl here.
+# But if you want a fresh log every time, you can uncomment the next line:
+# route_log.jsonl
