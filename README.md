@@ -64,3 +64,6 @@ Once the intent is known, this function acts as a Dispatcher.
 For production AI systems, you must know what happened after the fact.
 
 - JSON Lines (.jsonl): We use this format because it is stream-friendly. Unlike a standard JSON list, you can add new lines to a .jsonl file without reading the whole file into memory, making it highly efficient for long-term logging.
+
+## Demon Video
+[Video](https://drive.google.com/file/d/1RL7Fsa5oh2Dcti8GD9hvJFGdL-OGcHOY/view?usp=sharing)
